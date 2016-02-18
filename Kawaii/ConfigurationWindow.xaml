@@ -1,0 +1,23 @@
+﻿<Window x:Class="Kawaii.ConfigurationWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+        Title="ConfigurationWindow" Height="300" Width="300">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Border Grid.Row="0" BorderThickness="1" BorderBrush="Black" VerticalAlignment="Top" HorizontalAlignment="Stretch" Margin="15">
+            <TextBox TextAlignment="Center" 
+                     FontFamily="/Resources/PressStart2P.ttf"
+                     FontWeight="Bold"
+                     FontStyle="Normal"
+                     FontSize="26"
+                     Foreground="SkyBlue">
+            Notice me Senpai!
+            </TextBox>         
+        </Border>
+        <xctk:ColorPicker Grid.Row="1" Height="25" VerticalAlignment="Top" Margin="15"></xctk:ColorPicker>
+    </Grid>
+</Window>

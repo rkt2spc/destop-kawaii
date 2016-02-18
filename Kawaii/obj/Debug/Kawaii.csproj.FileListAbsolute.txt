@@ -1,0 +1,58 @@
+c:\users\tuannguyen\documents\visual studio 2013\Projects\Kawaii\Kawaii\bin\Debug\Kawaii.exe.config
+c:\users\tuannguyen\documents\visual studio 2013\Projects\Kawaii\Kawaii\bin\Debug\Kawaii.exe
+c:\users\tuannguyen\documents\visual studio 2013\Projects\Kawaii\Kawaii\bin\Debug\Kawaii.pdb
+c:\users\tuannguyen\documents\visual studio 2013\Projects\Kawaii\Kawaii\obj\Debug\Kawaii.csprojResolveAssemblyReference.cache
+c:\users\tuannguyen\documents\visual studio 2013\Projects\Kawaii\Kawaii\obj\Debug\MainWindow.baml
+c:\users\tuannguyen\documents\visual studio 2013\Projects\Kawaii\Kawaii\obj\Debug\MainWindow.g.cs
+c:\users\tuannguyen\documents\visual studio 2013\Projects\Kawaii\Kawaii\obj\Debug\App.g.cs
+c:\users\tuannguyen\documents\visual studio 2013\Projects\Kawaii\Kawaii\obj\Debug\Kawaii_MarkupCompile.cache
+c:\users\tuannguyen\documents\visual studio 2013\Projects\Kawaii\Kawaii\obj\Debug\Kawaii.g.resources
+c:\users\tuannguyen\documents\visual studio 2013\Projects\Kawaii\Kawaii\obj\Debug\Kawaii.Properties.Resources.resources
+c:\users\tuannguyen\documents\visual studio 2013\Projects\Kawaii\Kawaii\obj\Debug\Kawaii.csproj.GenerateResource.Cache
+c:\users\tuannguyen\documents\visual studio 2013\Projects\Kawaii\Kawaii\obj\Debug\Kawaii.exe
+c:\users\tuannguyen\documents\visual studio 2013\Projects\Kawaii\Kawaii\obj\Debug\Kawaii.pdb
+C:\Users\TuanNguyen\Documents\Visual Studio 2013\Projects\Kawaii\Kawaii\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+C:\Users\TuanNguyen\Documents\Visual Studio 2013\Projects\Kawaii\Kawaii\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+C:\Users\TuanNguyen\Documents\Visual Studio 2013\Projects\Kawaii\Kawaii\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+C:\Users\TuanNguyen\Documents\Visual Studio 2013\Projects\Kawaii\Kawaii\obj\Debug\Kawaii_Content.g.cs
+C:\Users\TuanNguyen\Documents\Visual Studio 2013\Projects\Kawaii\Kawaii\bin\Debug\Resources\kawaiiVoice.mp3
+C:\Users\TuanNguyen\Documents\Visual Studio 2013\Projects\1 FREETIME HOBBY PROJECTS\Kawaii\Kawaii\bin\Debug\Resources\kawaiiVoice.mp3
+C:\Users\TuanNguyen\Documents\Visual Studio 2013\Projects\1 FREETIME HOBBY PROJECTS\Kawaii\Kawaii\bin\Debug\Kawaii.exe.config
+C:\Users\TuanNguyen\Documents\Visual Studio 2013\Projects\1 FREETIME HOBBY PROJECTS\Kawaii\Kawaii\bin\Debug\Kawaii.exe
+C:\Users\TuanNguyen\Documents\Visual Studio 2013\Projects\1 FREETIME HOBBY PROJECTS\Kawaii\Kawaii\bin\Debug\Kawaii.pdb
+C:\Users\TuanNguyen\Documents\Visual Studio 2013\Projects\1 FREETIME HOBBY PROJECTS\Kawaii\Kawaii\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+C:\Users\TuanNguyen\Documents\Visual Studio 2013\Projects\1 FREETIME HOBBY PROJECTS\Kawaii\Kawaii\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\TuanNguyen\Documents\Visual Studio 2013\Projects\1 FREETIME HOBBY PROJECTS\Kawaii\Kawaii\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+C:\Users\TuanNguyen\Documents\Visual Studio 2013\Projects\1 FREETIME HOBBY PROJECTS\Kawaii\Kawaii\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+C:\Users\TuanNguyen\Documents\Visual Studio 2013\Projects\1 FREETIME HOBBY PROJECTS\Kawaii\Kawaii\obj\Debug\ConfigurationWindow.baml
+C:\Users\TuanNguyen\Documents\Visual Studio 2013\Projects\1 FREETIME HOBBY PROJECTS\Kawaii\Kawaii\obj\Debug\MainWindow.baml
+C:\Users\TuanNguyen\Documents\Visual Studio 2013\Projects\1 FREETIME HOBBY PROJECTS\Kawaii\Kawaii\obj\Debug\ConfigurationWindow.g.cs
+C:\Users\TuanNguyen\Documents\Visual Studio 2013\Projects\1 FREETIME HOBBY PROJECTS\Kawaii\Kawaii\obj\Debug\MainWindow.g.cs
+C:\Users\TuanNguyen\Documents\Visual Studio 2013\Projects\1 FREETIME HOBBY PROJECTS\Kawaii\Kawaii\obj\Debug\App.g.cs
+C:\Users\TuanNguyen\Documents\Visual Studio 2013\Projects\1 FREETIME HOBBY PROJECTS\Kawaii\Kawaii\obj\Debug\Kawaii_Content.g.cs
+C:\Users\TuanNguyen\Documents\Visual Studio 2013\Projects\1 FREETIME HOBBY PROJECTS\Kawaii\Kawaii\obj\Debug\Kawaii_MarkupCompile.cache
+C:\Users\TuanNguyen\Documents\Visual Studio 2013\Projects\1 FREETIME HOBBY PROJECTS\Kawaii\Kawaii\obj\Debug\Kawaii.g.resources
+C:\Users\TuanNguyen\Documents\Visual Studio 2013\Projects\1 FREETIME HOBBY PROJECTS\Kawaii\Kawaii\obj\Debug\Kawaii.Properties.Resources.resources
+C:\Users\TuanNguyen\Documents\Visual Studio 2013\Projects\1 FREETIME HOBBY PROJECTS\Kawaii\Kawaii\obj\Debug\Kawaii.csproj.GenerateResource.Cache
+C:\Users\TuanNguyen\Documents\Visual Studio 2013\Projects\1 FREETIME HOBBY PROJECTS\Kawaii\Kawaii\obj\Debug\Kawaii.exe
+C:\Users\TuanNguyen\Documents\Visual Studio 2013\Projects\1 FREETIME HOBBY PROJECTS\Kawaii\Kawaii\obj\Debug\Kawaii.pdb
+D:\Media\Documents\Visual Studio 2015\Projects\1 FREETIME HOBBY PROJECTS\Kawaii\Kawaii\bin\Debug\Kawaii.exe.config
+D:\Media\Documents\Visual Studio 2015\Projects\1 FREETIME HOBBY PROJECTS\Kawaii\Kawaii\obj\Debug\Kawaii.exe
+D:\Media\Documents\Visual Studio 2015\Projects\1 FREETIME HOBBY PROJECTS\Kawaii\Kawaii\obj\Debug\Kawaii.pdb
+D:\Media\Documents\Visual Studio 2015\Projects\1 FREETIME HOBBY PROJECTS\Kawaii\Kawaii\bin\Debug\Resources\kawaiiVoice.mp3
+D:\Media\Documents\Visual Studio 2015\Projects\1 FREETIME HOBBY PROJECTS\Kawaii\Kawaii\bin\Debug\Kawaii.exe
+D:\Media\Documents\Visual Studio 2015\Projects\1 FREETIME HOBBY PROJECTS\Kawaii\Kawaii\bin\Debug\Kawaii.pdb
+D:\Media\Documents\Visual Studio 2015\Projects\1 FREETIME HOBBY PROJECTS\Kawaii\Kawaii\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+D:\Media\Documents\Visual Studio 2015\Projects\1 FREETIME HOBBY PROJECTS\Kawaii\Kawaii\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+D:\Media\Documents\Visual Studio 2015\Projects\1 FREETIME HOBBY PROJECTS\Kawaii\Kawaii\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+D:\Media\Documents\Visual Studio 2015\Projects\1 FREETIME HOBBY PROJECTS\Kawaii\Kawaii\obj\Debug\Kawaii.csprojResolveAssemblyReference.cache
+D:\Media\Documents\Visual Studio 2015\Projects\1 FREETIME HOBBY PROJECTS\Kawaii\Kawaii\obj\Debug\ConfigurationWindow.baml
+D:\Media\Documents\Visual Studio 2015\Projects\1 FREETIME HOBBY PROJECTS\Kawaii\Kawaii\obj\Debug\MainWindow.baml
+D:\Media\Documents\Visual Studio 2015\Projects\1 FREETIME HOBBY PROJECTS\Kawaii\Kawaii\obj\Debug\ConfigurationWindow.g.cs
+D:\Media\Documents\Visual Studio 2015\Projects\1 FREETIME HOBBY PROJECTS\Kawaii\Kawaii\obj\Debug\MainWindow.g.cs
+D:\Media\Documents\Visual Studio 2015\Projects\1 FREETIME HOBBY PROJECTS\Kawaii\Kawaii\obj\Debug\App.g.cs
+D:\Media\Documents\Visual Studio 2015\Projects\1 FREETIME HOBBY PROJECTS\Kawaii\Kawaii\obj\Debug\Kawaii_Content.g.cs
+D:\Media\Documents\Visual Studio 2015\Projects\1 FREETIME HOBBY PROJECTS\Kawaii\Kawaii\obj\Debug\Kawaii_MarkupCompile.cache
+D:\Media\Documents\Visual Studio 2015\Projects\1 FREETIME HOBBY PROJECTS\Kawaii\Kawaii\obj\Debug\Kawaii.g.resources
+D:\Media\Documents\Visual Studio 2015\Projects\1 FREETIME HOBBY PROJECTS\Kawaii\Kawaii\obj\Debug\Kawaii.Properties.Resources.resources
+D:\Media\Documents\Visual Studio 2015\Projects\1 FREETIME HOBBY PROJECTS\Kawaii\Kawaii\obj\Debug\Kawaii.csproj.GenerateResource.Cache
